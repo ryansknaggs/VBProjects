@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\bin\Debug\DateInformationApp.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\bin\Debug\DateInformationApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\bin\Debug\DateInformationApp.pdb
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\bin\Debug\DateInformationApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\obj\Debug\DateInformationApp.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\obj\Debug\DateInformationApp.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\obj\Debug\DateInformationApp.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\obj\Debug\DateInformationApp.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\obj\Debug\DateInformationApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\obj\Debug\DateInformationApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\DateInformationApp\DateInformationApp\obj\Debug\DateInformationApp.pdb

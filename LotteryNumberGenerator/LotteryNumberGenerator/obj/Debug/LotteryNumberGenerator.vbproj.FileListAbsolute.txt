@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.exe
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.pdb
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\bin\Debug\LotteryNumberGenerator.xml
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.exe
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.xml
+c:\users\ted\documents\visual studio 2015\Projects\LotteryNumberGenerator\LotteryNumberGenerator\obj\Debug\LotteryNumberGenerator.pdb

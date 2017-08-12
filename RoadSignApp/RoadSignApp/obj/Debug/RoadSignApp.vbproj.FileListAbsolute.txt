@@ -1,0 +1,10 @@
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\bin\Debug\RoadSignApp.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\bin\Debug\RoadSignApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\bin\Debug\RoadSignApp.pdb
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\bin\Debug\RoadSignApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\obj\Debug\RoadSignApp.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\obj\Debug\RoadSignApp.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\obj\Debug\RoadSignApp.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\obj\Debug\RoadSignApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\obj\Debug\RoadSignApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\RoadSignApp\RoadSignApp\obj\Debug\RoadSignApp.pdb

@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\ted\documents\visual studio 2015\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb

@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\bin\Debug\SmallestLargest.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\bin\Debug\SmallestLargest.exe
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\bin\Debug\SmallestLargest.pdb
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\bin\Debug\SmallestLargest.xml
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.exe
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.xml
+c:\users\ted\documents\visual studio 2015\Projects\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.pdb

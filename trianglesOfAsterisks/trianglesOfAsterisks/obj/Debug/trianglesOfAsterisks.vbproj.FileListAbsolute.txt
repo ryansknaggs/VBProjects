@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\bin\Debug\trianglesOfAsterisks.exe.config
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\bin\Debug\trianglesOfAsterisks.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\bin\Debug\trianglesOfAsterisks.pdb
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\bin\Debug\trianglesOfAsterisks.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\obj\Debug\trianglesOfAsterisks.vbprojResolveAssemblyReference.cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\obj\Debug\trianglesOfAsterisks.Form1.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\obj\Debug\trianglesOfAsterisks.Resources.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\obj\Debug\trianglesOfAsterisks.vbproj.GenerateResource.Cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\obj\Debug\trianglesOfAsterisks.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\obj\Debug\trianglesOfAsterisks.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\trianglesOfAsterisks\trianglesOfAsterisks\obj\Debug\trianglesOfAsterisks.pdb

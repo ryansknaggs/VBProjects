@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\bin\Debug\telephoneNumberWordGenerator.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\bin\Debug\telephoneNumberWordGenerator.exe
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\bin\Debug\telephoneNumberWordGenerator.pdb
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\bin\Debug\telephoneNumberWordGenerator.xml
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\obj\Debug\telephoneNumberWordGenerator.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\obj\Debug\telephoneNumberWordGenerator.WordGenerator.resources
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\obj\Debug\telephoneNumberWordGenerator.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\obj\Debug\telephoneNumberWordGenerator.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\obj\Debug\telephoneNumberWordGenerator.exe
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\obj\Debug\telephoneNumberWordGenerator.xml
+c:\users\ted\documents\visual studio 2015\Projects\telephoneNumberWordGenerator\telephoneNumberWordGenerator\obj\Debug\telephoneNumberWordGenerator.pdb

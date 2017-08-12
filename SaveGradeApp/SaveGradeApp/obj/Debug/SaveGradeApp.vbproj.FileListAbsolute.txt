@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\bin\Debug\SaveGradeApp.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\bin\Debug\SaveGradeApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\bin\Debug\SaveGradeApp.pdb
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\bin\Debug\SaveGradeApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\obj\Debug\SaveGradeApp.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\obj\Debug\SaveGradeApp.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\obj\Debug\SaveGradeApp.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\obj\Debug\SaveGradeApp.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\obj\Debug\SaveGradeApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\obj\Debug\SaveGradeApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\SaveGradeApp\SaveGradeApp\obj\Debug\SaveGradeApp.pdb

@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\bin\Debug\saving.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\bin\Debug\saving.exe
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\bin\Debug\saving.pdb
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\bin\Debug\saving.xml
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\obj\Debug\saving.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\obj\Debug\saving.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\obj\Debug\saving.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\obj\Debug\saving.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\obj\Debug\saving.exe
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\obj\Debug\saving.xml
+c:\users\ted\documents\visual studio 2015\Projects\saving\saving\obj\Debug\saving.pdb

@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\bin\Debug\SquareApp.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\bin\Debug\SquareApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\bin\Debug\SquareApp.pdb
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\bin\Debug\SquareApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\obj\Debug\SquareApp.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\obj\Debug\SquareApp.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\obj\Debug\SquareApp.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\obj\Debug\SquareApp.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\obj\Debug\SquareApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\obj\Debug\SquareApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\SquareApp\SquareApp\obj\Debug\SquareApp.pdb

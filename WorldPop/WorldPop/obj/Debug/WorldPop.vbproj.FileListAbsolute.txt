@@ -1,0 +1,11 @@
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\bin\Debug\WorldPop.exe.config
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\bin\Debug\WorldPop.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\bin\Debug\WorldPop.pdb
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\bin\Debug\WorldPop.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\obj\Debug\WorldPop.vbprojResolveAssemblyReference.cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\obj\Debug\WorldPop.Form1.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\obj\Debug\WorldPop.Resources.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\obj\Debug\WorldPop.vbproj.GenerateResource.Cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\obj\Debug\WorldPop.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\obj\Debug\WorldPop.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\WorldPop\WorldPop\obj\Debug\WorldPop.pdb

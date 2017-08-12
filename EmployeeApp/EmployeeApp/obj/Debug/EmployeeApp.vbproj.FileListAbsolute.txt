@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb

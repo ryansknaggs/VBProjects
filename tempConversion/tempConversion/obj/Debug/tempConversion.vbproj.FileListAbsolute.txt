@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\bin\Debug\tempConversion.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\bin\Debug\tempConversion.exe
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\bin\Debug\tempConversion.pdb
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\bin\Debug\tempConversion.xml
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\obj\Debug\tempConversion.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\obj\Debug\tempConversion.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\obj\Debug\tempConversion.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\obj\Debug\tempConversion.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\obj\Debug\tempConversion.exe
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\obj\Debug\tempConversion.xml
+c:\users\ted\documents\visual studio 2015\Projects\tempConversion\tempConversion\obj\Debug\tempConversion.pdb

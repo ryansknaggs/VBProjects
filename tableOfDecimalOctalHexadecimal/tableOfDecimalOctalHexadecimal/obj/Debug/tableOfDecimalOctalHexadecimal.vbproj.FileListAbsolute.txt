@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\bin\Debug\tableOfDecimalOctalHexadecimal.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\obj\Debug\tableOfDecimalOctalHexadecimal.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\obj\Debug\tableOfDecimalOctalHexadecimal.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\obj\Debug\tableOfDecimalOctalHexadecimal.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\obj\Debug\tableOfDecimalOctalHexadecimal.xml
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\bin\Debug\tableOfDecimalOctalHexadecimal.exe
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\bin\Debug\tableOfDecimalOctalHexadecimal.pdb
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\bin\Debug\tableOfDecimalOctalHexadecimal.xml
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\obj\Debug\tableOfDecimalOctalHexadecimal.exe
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\obj\Debug\tableOfDecimalOctalHexadecimal.pdb
+c:\users\ted\documents\visual studio 2015\Projects\tableOfDecimalOctalHexadecimal\tableOfDecimalOctalHexadecimal\obj\Debug\tableOfDecimalOctalHexadecimal.vbprojResolveAssemblyReference.cache

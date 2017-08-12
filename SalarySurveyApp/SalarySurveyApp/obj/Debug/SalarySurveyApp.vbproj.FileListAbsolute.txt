@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\bin\Debug\SalarySurveyApp.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\bin\Debug\SalarySurveyApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\bin\Debug\SalarySurveyApp.pdb
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\bin\Debug\SalarySurveyApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\obj\Debug\SalarySurveyApp.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\obj\Debug\SalarySurveyApp.SalarySurvey.resources
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\obj\Debug\SalarySurveyApp.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\obj\Debug\SalarySurveyApp.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\obj\Debug\SalarySurveyApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\obj\Debug\SalarySurveyApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\SalarySurveyApp\SalarySurveyApp\obj\Debug\SalarySurveyApp.pdb

@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\bin\Debug\Arithmetic Calculator.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\bin\Debug\Arithmetic Calculator.exe
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\bin\Debug\Arithmetic Calculator.pdb
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\bin\Debug\Arithmetic Calculator.xml
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic_Calculator.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic_Calculator.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.exe
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.xml
+c:\users\ted\documents\visual studio 2015\Projects\Arithmetic Calculator\Arithmetic Calculator\obj\Debug\Arithmetic Calculator.pdb

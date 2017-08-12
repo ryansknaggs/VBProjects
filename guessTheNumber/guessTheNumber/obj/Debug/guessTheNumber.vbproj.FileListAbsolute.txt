@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.exe
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.pdb
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\bin\Debug\guessTheNumber.xml
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.exe
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.xml
+c:\users\ted\documents\visual studio 2015\Projects\guessTheNumber\guessTheNumber\obj\Debug\guessTheNumber.pdb

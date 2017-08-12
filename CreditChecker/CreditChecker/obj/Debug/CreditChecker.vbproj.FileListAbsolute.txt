@@ -1,0 +1,11 @@
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\bin\Debug\CreditChecker.exe.config
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\bin\Debug\CreditChecker.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\bin\Debug\CreditChecker.pdb
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\bin\Debug\CreditChecker.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\obj\Debug\CreditChecker.vbprojResolveAssemblyReference.cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\obj\Debug\CreditChecker.Form1.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\obj\Debug\CreditChecker.Resources.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\obj\Debug\CreditChecker.vbproj.GenerateResource.Cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\obj\Debug\CreditChecker.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\obj\Debug\CreditChecker.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\CreditChecker\CreditChecker\obj\Debug\CreditChecker.pdb

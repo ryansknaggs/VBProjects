@@ -1,0 +1,11 @@
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\bin\Debug\UpperlimitCalculator.exe.config
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\bin\Debug\UpperlimitCalculator.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\bin\Debug\UpperlimitCalculator.pdb
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\bin\Debug\UpperlimitCalculator.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\obj\Debug\UpperlimitCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\obj\Debug\UpperlimitCalculator.Form1.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\obj\Debug\UpperlimitCalculator.Resources.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\obj\Debug\UpperlimitCalculator.vbproj.GenerateResource.Cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\obj\Debug\UpperlimitCalculator.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\obj\Debug\UpperlimitCalculator.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\UpperlimitCalculator\UpperlimitCalculator\obj\Debug\UpperlimitCalculator.pdb

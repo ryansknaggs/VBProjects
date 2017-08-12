@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\bin\Debug\RetailSalesCalculator.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\bin\Debug\RetailSalesCalculator.exe
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\bin\Debug\RetailSalesCalculator.pdb
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\bin\Debug\RetailSalesCalculator.xml
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\obj\Debug\RetailSalesCalculator.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\obj\Debug\RetailSalesCalculator.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\obj\Debug\RetailSalesCalculator.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\obj\Debug\RetailSalesCalculator.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\obj\Debug\RetailSalesCalculator.exe
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\obj\Debug\RetailSalesCalculator.xml
+c:\users\ted\documents\visual studio 2015\Projects\RetailSalesCalculator\RetailSalesCalculator\obj\Debug\RetailSalesCalculator.pdb

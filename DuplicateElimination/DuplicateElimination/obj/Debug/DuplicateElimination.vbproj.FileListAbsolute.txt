@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.pdb
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.xml
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.DuplicateElimination.resources
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.exe
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.xml
+c:\users\ted\documents\visual studio 2015\Projects\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.pdb

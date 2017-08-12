@@ -1,0 +1,11 @@
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe.config
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.pdb
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.vbprojResolveAssemblyReference.cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.Form1.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.Resources.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.vbproj.GenerateResource.Cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.pdb

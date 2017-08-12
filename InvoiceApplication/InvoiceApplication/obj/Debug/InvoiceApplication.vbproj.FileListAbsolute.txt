@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\bin\Debug\InvoiceApplication.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\bin\Debug\InvoiceApplication.exe
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\bin\Debug\InvoiceApplication.pdb
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\bin\Debug\InvoiceApplication.xml
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\obj\Debug\InvoiceApplication.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\obj\Debug\InvoiceApplication.InvoiceApp.resources
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\obj\Debug\InvoiceApplication.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\obj\Debug\InvoiceApplication.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\obj\Debug\InvoiceApplication.exe
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\obj\Debug\InvoiceApplication.xml
+c:\users\ted\documents\visual studio 2015\Projects\InvoiceApplication\InvoiceApplication\obj\Debug\InvoiceApplication.pdb

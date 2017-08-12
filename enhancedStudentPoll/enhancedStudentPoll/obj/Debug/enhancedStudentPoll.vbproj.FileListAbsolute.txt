@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\bin\Debug\enhancedStudentPoll.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\bin\Debug\enhancedStudentPoll.exe
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\bin\Debug\enhancedStudentPoll.pdb
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\bin\Debug\enhancedStudentPoll.xml
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\obj\Debug\enhancedStudentPoll.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\obj\Debug\enhancedStudentPoll.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\obj\Debug\enhancedStudentPoll.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\obj\Debug\enhancedStudentPoll.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\obj\Debug\enhancedStudentPoll.exe
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\obj\Debug\enhancedStudentPoll.xml
+c:\users\ted\documents\visual studio 2015\Projects\enhancedStudentPoll\enhancedStudentPoll\obj\Debug\enhancedStudentPoll.pdb

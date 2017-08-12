@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.exe
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.pdb
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\bin\Debug\CafeteriaSurvey.xml
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.exe
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.xml
+c:\users\ted\documents\visual studio 2015\Projects\CafeteriaSurvey\CafeteriaSurvey\obj\Debug\CafeteriaSurvey.pdb

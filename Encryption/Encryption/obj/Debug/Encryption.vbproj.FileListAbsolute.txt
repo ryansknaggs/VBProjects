@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.xml
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.xml
+c:\users\ted\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb

@@ -1,0 +1,10 @@
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\bin\Debug\whatDoesItDo.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\bin\Debug\whatDoesItDo.exe
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\bin\Debug\whatDoesItDo.pdb
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\bin\Debug\whatDoesItDo.xml
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\obj\Debug\whatDoesItDo.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\obj\Debug\whatDoesItDo.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\obj\Debug\whatDoesItDo.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\obj\Debug\whatDoesItDo.exe
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\obj\Debug\whatDoesItDo.xml
+c:\users\ted\documents\visual studio 2015\Projects\whatDoesItDo\whatDoesItDo\obj\Debug\whatDoesItDo.pdb

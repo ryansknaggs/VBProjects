@@ -1,0 +1,15 @@
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\bin\Debug\RyanKnaggs_FinalProject.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\bin\Debug\RyanKnaggs_FinalProject.exe
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\bin\Debug\RyanKnaggs_FinalProject.pdb
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\bin\Debug\RyanKnaggs_FinalProject.xml
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.exe
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.xml
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.pdb
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.gradeCalculator.resources
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.Form2.resources
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.SplashScreen1.resources
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.Form3.resources
+c:\users\ted\documents\visual studio 2015\Projects\RyanKnaggs_FinalProject\RyanKnaggs_FinalProject\obj\Debug\RyanKnaggs_FinalProject.Form4.resources

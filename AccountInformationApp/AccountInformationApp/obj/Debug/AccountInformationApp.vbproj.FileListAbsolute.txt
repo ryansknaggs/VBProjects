@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\bin\Debug\AccountInformationApp.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\bin\Debug\AccountInformationApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\bin\Debug\AccountInformationApp.pdb
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\bin\Debug\AccountInformationApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\obj\Debug\AccountInformationApp.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\obj\Debug\AccountInformationApp.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\obj\Debug\AccountInformationApp.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\obj\Debug\AccountInformationApp.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\obj\Debug\AccountInformationApp.exe
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\obj\Debug\AccountInformationApp.xml
+c:\users\ted\documents\visual studio 2015\Projects\AccountInformationApp\AccountInformationApp\obj\Debug\AccountInformationApp.pdb

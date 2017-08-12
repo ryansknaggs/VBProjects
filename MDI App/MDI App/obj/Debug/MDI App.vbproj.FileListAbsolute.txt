@@ -1,0 +1,12 @@
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\bin\Debug\MDI App.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\bin\Debug\MDI App.exe
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\bin\Debug\MDI App.pdb
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\bin\Debug\MDI App.xml
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI App.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI_App.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI_App.Form2.resources
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI_App.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI App.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI App.exe
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI App.xml
+c:\users\ted\documents\visual studio 2015\Projects\MDI App\MDI App\obj\Debug\MDI App.pdb

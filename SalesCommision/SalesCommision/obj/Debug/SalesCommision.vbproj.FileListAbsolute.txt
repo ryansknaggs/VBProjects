@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\bin\Debug\SalesCommision.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\bin\Debug\SalesCommision.exe
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\bin\Debug\SalesCommision.pdb
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\bin\Debug\SalesCommision.xml
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\obj\Debug\SalesCommision.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\obj\Debug\SalesCommision.Form1.resources
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\obj\Debug\SalesCommision.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\obj\Debug\SalesCommision.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\obj\Debug\SalesCommision.exe
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\obj\Debug\SalesCommision.xml
+c:\users\ted\documents\visual studio 2015\Projects\SalesCommision\SalesCommision\obj\Debug\SalesCommision.pdb

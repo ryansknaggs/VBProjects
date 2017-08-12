@@ -1,0 +1,11 @@
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\bin\Debug\GasPump.exe.config
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\bin\Debug\GasPump.exe
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\bin\Debug\GasPump.pdb
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\bin\Debug\GasPump.xml
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\obj\Debug\GasPump.vbprojResolveAssemblyReference.cache
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\obj\Debug\GasPump.GasPump.resources
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\obj\Debug\GasPump.Resources.resources
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\obj\Debug\GasPump.vbproj.GenerateResource.Cache
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\obj\Debug\GasPump.exe
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\obj\Debug\GasPump.xml
+c:\users\ted\documents\visual studio 2015\Projects\GasPump\GasPump\obj\Debug\GasPump.pdb

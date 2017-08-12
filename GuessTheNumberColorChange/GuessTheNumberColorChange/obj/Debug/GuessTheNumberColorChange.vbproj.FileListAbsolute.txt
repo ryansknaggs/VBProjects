@@ -1,0 +1,10 @@
+c:\users\ted\documents\visual studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\bin\Debug\GuessTheNumberColorChange.exe.config
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\bin\Debug\GuessTheNumberColorChange.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\bin\Debug\GuessTheNumberColorChange.pdb
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\bin\Debug\GuessTheNumberColorChange.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\obj\Debug\GuessTheNumberColorChange.vbprojResolveAssemblyReference.cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\obj\Debug\GuessTheNumberColorChange.Resources.resources
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\obj\Debug\GuessTheNumberColorChange.vbproj.GenerateResource.Cache
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\obj\Debug\GuessTheNumberColorChange.exe
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\obj\Debug\GuessTheNumberColorChange.xml
+C:\Users\Ted\Documents\Visual Studio 2015\Projects\GuessTheNumberColorChange\GuessTheNumberColorChange\obj\Debug\GuessTheNumberColorChange.pdb
